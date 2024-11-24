@@ -1,0 +1,24 @@
+{
+    "label" : "shutdown",
+    "action" : "systemctl poweroff",
+    "text" : "Arresta",
+    "keybind" : "s"
+}
+
+{
+    "label" : "logout",
+    "action" : "sleep1; hyprctl dispatch exit",
+    "text" : "Logout",
+    "keybind" : "e"
+}
+
+
+
+{
+    "label" : "reboot",
+    "action" : "systemctl reboot",
+    "text" : "Riavvia",
+    "keybind" : "r",
+    "height" : "0.5",
+    "width" : "0.5"
+}
