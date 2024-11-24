@@ -1,0 +1,7 @@
+mode=drun
+allow_images=false
+image_size=20
+width=600
+hide_scroll=true
+term=kitty
+sort_order=alphabetical
