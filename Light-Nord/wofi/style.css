@@ -1,0 +1,61 @@
+window{
+	background-color: #3B4252;
+	color: #000000;
+	font-family: Roboto;
+	font: 'Roboto Condensed';
+	font-size: 15px;
+	border-radius: 15px;
+}
+
+#input{
+	/*outline-color: #f8f6f0;*/
+	background-color: #f8f6f0;
+	border-radius: 0px;
+	border: none;
+	color: #000000;
+	margin: none;
+}
+
+#inner-box{
+	background-color: #ffffff;
+}
+
+
+#outer-box{
+	padding: 10px;
+	background-color: #f8f6f0;
+	border-radius: 15px;
+}
+
+#entry:nth-child(even){
+	background-color: #f8f6f0;
+}
+
+
+#scroll{
+	margin: 5px;
+}
+
+#text {
+	padding: 4px;
+	color: #000000;
+}
+
+#input:selected{
+	border: none;
+}
+
+#entry:selected{
+	background-color: #cfcfc4;
+	border: none; 
+}
+
+#text:selected{
+	background: transparent;
+}
+
+#input:focus{
+	border: none;
+	outline: none
+}
+
