@@ -1,6 +1,5 @@
 <p>
-  <img src="Screenshot/Hyprland.png" width="50%" />
-  <img src="Screenshot/Wofi.png" width="50%" />
+  <img src="Screenshot/Hyprland.png" width="50%" /> | <img src="Screenshot/Wofi.png" width="50%" />
 </p>
 
 
