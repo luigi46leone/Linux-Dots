@@ -5,7 +5,7 @@ IMPORTANT: I'm not a programmer/developer, i'm only a passioned about Linux, so 
 WM: Hyprland
 External monitor Position: nwg-displays
 Wallpaper: swaybg
-File manager: dolphin (per risolvere il problema di “apri con”, installa archlinux-xdg-menu e sul terminale scrivi ‘XDG_MENU_PREFIX=arch- kbuildsycoca6’) (per poter estrarre i file direttamente da dolphin, installare con pacman ark)
+File manager: dolphin (to solve the problem about“open with”, install archlinux-xdg-menu and type on the terminal ‘XDG_MENU_PREFIX=arch- kbuildsycoca6’) (to extract files directly through dolphin, install through pacman ark)
 Terminal: kitty (font: Fira Code)
 Status Bar: waybar
 Search Menu: wofi
