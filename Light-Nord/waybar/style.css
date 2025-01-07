@@ -65,7 +65,6 @@ button:hover {
 }
 
 #custom-power
-#custom-updates
 #clock,
 #battery,
 #cpu,
@@ -74,16 +73,6 @@ button:hover {
 #backlight,
 #network,
 #pulseaudio,
-
-#custom-updates{
-	background-color: #f8f6f0;
-	border-radius: 50px;
-	margin-left: 5px;
-	color: #000000;
-	font-family: "Roboto Condensed";    
-	padding-left: 15px;
-   	padding-right: 20px;
-}
 
 #window, #workspaces {
     background-color: #f8f6f0;
