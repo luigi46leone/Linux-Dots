@@ -7,8 +7,7 @@
     // Choose the order of the modules
 
     "modules-left": [
-	    "custom/updates",
-		"hyprland/workspaces"
+	    "hyprland/workspaces"
     ],
     
     "modules-center": [
@@ -29,23 +28,7 @@
 //Modules configuration
 
 //Left
-
-    "custom/updates": {
-	"restart-interval" : 10,
-	"exec-if" : "exit",
-	"exec" : "~/.config/waybar/Scripts/pkgs.sh",
-	"on-click" : "kitty -e sh update.sh",
-	"signal" : 10,
-	"tooltip" : false,
-	"return-type" : "json",
-	"format" : "{icon} {}",
-	"format-icons" : {
-		"none" : "",
-		"some" : ""
-	}
-    },
-
-     
+    
     "hyprland/workspaces": {
          "disable-scroll": true,
          "all-outputs": true,
